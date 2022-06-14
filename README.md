@@ -1,3 +1,5 @@
 # AppRunner
 AWS App Runner Service Learning Demo
-Using this platform to master the AWS platform and build infrastructure to help developers work effectively
+
+## Introduction
+This app is used as a demo to running on AWS platform. 
